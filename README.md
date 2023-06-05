@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Khadka</h1>
 <h3 align="center">A passionate Python developer from Nepal</h3>
 
-- 👨‍💻 Contact me at [rakeshkhadka.com.np](rakeshkhadka.com.np)
+- 👨‍💻 Contact me at [rakeshkhadka.com.np](https://rakeshkhadka.com.np)
 
 - 💬 Ask me about **Python, Django, Django Rest Framework**
 
